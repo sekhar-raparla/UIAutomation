@@ -1,0 +1,6 @@
+com\auros\basic\VerifySearchByIssueIDTest.class
+com\auros\basic\VerifySearchByKPACIDTest.class
+com\auros\basic\UtilFunctions.class
+com\auros\basic\VerifyLoggedInUserInHomePageTest.class
+com\auros\basic\VerifyCoPInHomePageTest.class
+com\auros\basic\VerifySearchByACIDTest.class
